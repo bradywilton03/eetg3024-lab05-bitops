@@ -1,5 +1,5 @@
 /*
- * Name: Brady Wilton1
+ * Name: Brady Wilton
  * Date: 02/12/26
  * Program: Lab 5 - Bit Operations / Marquee
  * Description:
